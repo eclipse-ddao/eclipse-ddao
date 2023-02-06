@@ -14,6 +14,8 @@ Eclipse is a decentralized platform that provides a digital workspace for startu
 
 - [Eclipse Smart Contracts](https://github.com/eclipse-ddao/smart-contracts)
 
+#### Live Demo ➡️ https://eclipse-web3.netlify.app/
+
 #### Eclipse was made as a submission for the FVM Space Warp Hackathon
 
 - Our Submission Link - [ETHGlobal](https://ethglobal.com/showcase/eclipse-data-daos-simplified-2o8fc)
