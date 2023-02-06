@@ -24,7 +24,7 @@ Eclipse is a decentralized platform that provides a digital workspace for startu
 
 - [Ashwin Prasad](https://github.com/hwnprsd) - Smart Contract Developer
 - [Ankit Negi](https://github.com/ankitn1311) - Full Stack Developer
-- [Ankit Sethi](https://ankitzethi.webflow.io/) - UI/UX Designer
+- [Ankit Sethi](https://dribbble.com/Desizgn) - UI/UX Designer
 
 #### Demo Images
 
