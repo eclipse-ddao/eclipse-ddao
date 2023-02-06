@@ -16,10 +16,15 @@ Eclipse is a decentralized platform that provides a digital workspace for startu
 
 - [Live Demo](https://eclipse-web3.netlify.app/)
 
-
 #### Eclipse was made as a submission for the FVM Space Warp Hackathon
 
 - Our Submission Link - [ETHGlobal](https://ethglobal.com/showcase/eclipse-data-daos-simplified-2o8fc)
+
+#### Team members who brought the vision to life
+
+- Ashwin Prasad - Smart Contract Developer
+- Ankit Negi - Full Stack Developer
+- Ankit Sethi - UI/UX Designer
 
 #### Demo Images
 
