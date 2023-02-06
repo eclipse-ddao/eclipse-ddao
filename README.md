@@ -6,13 +6,13 @@ Eclipse is a decentralized platform that provides a digital workspace for startu
 
 #### Some Important Links 🤖
 
-- [Our Design Journey on Figma](https://www.figma.com/file/966TzoFEeujN7RmHOX0kex/Eclipse---FVM-Space-Warp?node-id=0%3A1&t=DX2VMB8j5D8YVQhY-1)
-
 - [Our Web Application Source Code](https://github.com/eclipse-ddao/web-application)
 
 - [Our UX Backend Source Code](https://github.com/eclipse-ddao/ux-backend)
 
 - [Eclipse Smart Contracts](https://github.com/eclipse-ddao/smart-contracts)
+
+- [Our Design Journey on Figma](https://www.figma.com/file/966TzoFEeujN7RmHOX0kex/Eclipse---FVM-Space-Warp?node-id=0%3A1&t=DX2VMB8j5D8YVQhY-1)
 
 - [Live Demo](https://eclipse-web3.netlify.app/)
 
