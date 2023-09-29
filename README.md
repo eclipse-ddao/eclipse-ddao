@@ -22,9 +22,8 @@ Eclipse is a decentralized platform that provides a digital workspace for startu
 
 #### Team members who brought the vision to life
 
-- Ashwin Prasad - Smart Contract Developer
-- Ankit Negi - Full Stack Developer
-- Ankit Sethi - UI/UX Designer
+- Sarthak Sharma - Smart Contract Developer
+- Vaibhav Ghildiyal - Product Designer & Legal
 
 #### Demo Images
 
